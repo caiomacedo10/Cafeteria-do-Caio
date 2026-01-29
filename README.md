@@ -31,10 +31,9 @@ Este projeto é uma landing page para uma cafeteria, apresentando:
 ## 📁 Estrutura do Projeto
 
 ```
-treinando/
 ├── index.html      # Página principal
 ├── style.css       # Estilos do site
-├── img/           # Imagens e assets
+├── img/           # Imagens e assets (logos, ícones, fotos)
 └── README.md      # Documentação
 ```
 
